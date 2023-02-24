@@ -1,1 +1,45 @@
 These Are Our Project Ideas:
+
+1. Transfer playlists between music services such as Spotify and Apple Music.
+
+  Utilize a Database:
+    - Profile/User Info 
+    - Login Info for EACH SERVICE
+
+  2 Publicly Available Datasets:
+    - Spotify Playlists
+    - Apple Music Playlists 
+
+  Third Party Authentication:
+    - Use for BOTH Streaming Services (I believe Spotify for Developers uses OAuth) !!
+
+2, Pull a user’s playlist from Spotify and correlate it with a feed that has concert dates to alert the user of bands that they like that are playing nearby
+
+  Utilize a Database: 
+    - Profile/User Info 
+    - Login Info for Spotify 
+    - Access to Location Services
+
+  2 Public Datasets: 
+    - Spotify Playlists
+    - Venues & Performances in Current City 
+
+  Third Party Authentication 
+    - Use for Spotify Login to Confirm User
+    - Use Text Code OR Email (Or Give Choice) — Whatever is connected to Spotify Login 
+    
+3. A cooking app that allows users to upload and find recipes, connected to a delivery service that can deliver necessary ingredients
+
+  Database:
+    - Profile/User Info
+    - Submitted Recipes
+    - Grocery Options
+    - Access to Location
+    
+  APIs:
+    - Instacart API
+    - Spoonacular API
+    
+  Authentication:
+    - Financial Authentication
+    - Connect accounts to email/facebook
