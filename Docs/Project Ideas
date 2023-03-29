@@ -43,3 +43,6 @@ These Are Our Project Ideas:
   Authentication:
     - Financial Authentication
     - Connect accounts to email/facebook
+  User Login:
+    - Passport.js
+    
